@@ -17,7 +17,7 @@ return [
     |
     */
 
-    'default' => $db_config['connnection'],
+    'default' => $db_config['connection'],
 
     /*
     |--------------------------------------------------------------------------
